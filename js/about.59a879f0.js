@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkbai_whale_app"]=self["webpackChunkbai_whale_app"]||[]).push([[443],{4335:function(a,n,e){e.r(n),e.d(n,{default:function(){return h}});var u=e(3396);const t={class:"about"},r=(0,u._)("h1",null,"This is an about page",-1),s=[r];function i(a,n){return(0,u.wg)(),(0,u.iD)("div",t,s)}var c=e(89);const l={},p=(0,c.Z)(l,[["render",i]]);var h=p}}]);
+//# sourceMappingURL=about.59a879f0.js.map
