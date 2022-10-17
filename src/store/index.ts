@@ -1,14 +1,9 @@
 import { createStore } from 'vuex'
+import { i18nInfoStore } from "./i18n";
 
-export default createStore({
-  state: {
-  },
-  getters: {
-  },
-  mutations: {
-  },
-  actions: {
-  },
+
+export const store = createStore({
   modules: {
+    i18n: i18nInfoStore,
   }
 })
